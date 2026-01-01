@@ -39,7 +39,7 @@ to Runtime Services Communication
 development)
 
 ### Working Group Standards (In Development)
-- P9274.2.1 - JSON-LD for Application Profiles of Learner Experience Data
+- P9274.2.1 - [xAPI Profiles Working Group](https://sagroups.ieee.org/9274-2-1/) JSON-LD for Application Profiles of Learner Experience Data
 
 - P9274.3.1 - Packaging, Launch, and Run-time of xAPI (cmi5)
 - P9274.4.2 - Cybersecurity in xAPI Implementation
