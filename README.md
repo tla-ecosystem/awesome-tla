@@ -117,6 +117,7 @@ learning, education and training
 
 ### Industry &amp; Education Organizations
 - [Advanced Distributed Learning Initiative (ADL)](https://adlnet.gov/)
+- [i2DL (Interoperability in Digital Learning)](https://www.i2idl.org/)
 - [HR Open Standards Consortium](https://www.hropenstandards.org/)
 - [Credential Engine](https://credentialengine.org/)
 - [Postsecondary Electronic Standards Council (PESC)](https://www.pesc.org/)
