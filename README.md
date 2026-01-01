@@ -65,9 +65,7 @@ management
 ## Reference Implementations
 
 ### TLA Infrastructure
-- [TLA Sandbox](https://tlatoolbox.com) - Live development environment for testing TLA
-implementations with VM provisioning and cloud deployment
-- [TLA Discussion Forum](https://discuss.tlaworks.com) - Community discussion and support
+- [TLA Toolbox](https://tlatoolbox.com) - Live development environment for Sharable Competency Definitions and Assertions
 
 ### xAPI Tools
 
