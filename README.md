@@ -64,13 +64,14 @@ management
 
 ## Reference Implementations
 
-### TLA Infrastructure
-- [TLA Toolbox](https://tlatoolbox.com) - Community hosted reference environment for Sharable Competency Definitions and Assertions
 
 ### xAPI Tools
 
 - [xAPI Wrapper](https://github.com/adlnet/xAPIWrapper) - JavaScript library for xAPI communication
 - [cmi5.js](https://github.com/AICC/cmi5-Client-Library) - cmi5 client library
+
+### Sharable Competency Definition (SCD)
+- [TLA Toolbox](https://tlatoolbox.com) - Community hosted reference environment workspace for Sharable Competency Definitions and Assertions
 
 ## Tools &amp; Libraries
 
