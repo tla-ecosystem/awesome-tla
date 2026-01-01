@@ -31,7 +31,7 @@ Record (LER) Ecosystems
 - [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.11.1/10324/) - Learning Object Metadata
 - [IEEE 1484.11.1-2022](https://standards.ieee.org/ieee/1484.11.1/10350/) - Data Model for Content
 Object Communication
-- [IEEE 1484.11.2-2020]([https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
+- [IEEE 1484.11.2-2020](https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
 to Runtime Services Communication
 
 ### ISO/IEC Standards
