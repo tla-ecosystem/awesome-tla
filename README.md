@@ -1,6 +1,6 @@
 # Awesome TLA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; A curated list of Total Learning Architecture (TLA) resources, implementations, tools, standards, and
+A curated list of Total Learning Architecture (TLA) resources, implementations, tools, standards, and
 community projects
 
 The Total Learning Architecture (TLA) originated from the U.S. Department of Defense Advanced
@@ -59,7 +59,7 @@ development)
 management
 
 ### Learning Record Stores (LRS)
-- [Yet Analytics SQL-based Learning Record Store] (https://github.com/yetanalytics/lrsql) - Open-source LRS
+- [Yet Analytics SQL-based Learning Record Store](https://github.com/yetanalytics/lrsql) - Open-source LRS
 - [Learning Locker](https://github.com/LearningLocker/learninglocker) - Open-source LRS
 - [ADL LRS](https://github.com/adlnet/ADL_LRS) - Reference LRS implementation
 
@@ -92,7 +92,7 @@ platform
 - [cmi5 Specification](https://github.com/AICC/CMI-5_Spec_Current)
 
 ### Other Standards of Interest
-- [1EdTech Security Framework] (https://www.imsglobal.org/spec/security/v1p0) - xAPI leaves security/Oauth details to "implementation"
+- [1EdTech Security Framework](https://www.imsglobal.org/spec/security/v1p0) - xAPI leaves security/Oauth details to "implementation"
 
 ### Tutorials &amp; Guides
 - [xAPI Tutorials](https://xapi.com/tutorials/) - Getting started with xAPI
