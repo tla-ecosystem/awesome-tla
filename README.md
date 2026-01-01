@@ -59,6 +59,7 @@ development)
 management
 
 ### Learning Record Stores (LRS)
+- [Yet Analytics SQL-based Learning Record Store] (https://github.com/yetanalytics/lrsql) - Open-source LRS
 - [Learning Locker](https://github.com/LearningLocker/learninglocker) - Open-source LRS
 - [ADL LRS](https://github.com/adlnet/ADL_LRS) - Reference LRS implementation
 
