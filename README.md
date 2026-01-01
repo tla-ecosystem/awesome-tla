@@ -35,7 +35,7 @@ Object Communication
 to Runtime Services Communication
 
 ### ISO/IEC Standards
-- [ISO/IEC 39274-1-1](https://www.iso.org/standard/85955.html) - xAPI (joint IEEE/ISO standard, in
+- [ISO/IEC 39274-1-1](https://www.iso.org/standard/91131.html) - xAPI (joint IEEE/ISO standard, in
 development)
 
 ### Working Group Standards (In Development)
