@@ -90,14 +90,17 @@ platform
 - [IEEE LTSC Documentation](https://sagroups.ieee.org/ltsc/)
 - [cmi5 Specification](https://github.com/AICC/CMI-5_Spec_Current)
 
+### Other Standards of Interest
+- [1EdTech Security Framework] (https://www.imsglobal.org/spec/security/v1p0) - xAPI leaves security/Oauth details to "implementation"
+
 ### Tutorials &amp; Guides
 - [xAPI Tutorials](https://xapi.com/tutorials/) - Getting started with xAPI
 
 ## Community
 
 ### Discussion Forums
-- [TLA Community Forum](https://discuss.tlaworks.com)
 - [xAPI Community](https://groups.google.com/g/xapi-spec)
+- [TLA Community Forum](https://discuss.tlaworks.com)
 
 ### Working Groups
 - [IEEE LTSC Working Groups](https://sagroups.ieee.org/ltsc/workgroups/)
