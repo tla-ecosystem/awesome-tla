@@ -27,11 +27,11 @@ JSON and RESTful data transport
 Competency Definitions
 - [IEEE 1484.2-2024](https://standards.ieee.org/ieee/1484.2/11142/) - Learning and Employment
 Record (LER) Ecosystems
-- [IEEE 2881-2025](https://standards.ieee.org/ieee/2881/10892/) - Learning Metadata Terms
-- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.12.1/6164/) - Learning Object Metadata
+- [IEEE 2881-2025](https://standards.ieee.org/ieee/2881/11719/) - Learning Metadata Terms
+- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.11.1/10324/) - Learning Object Metadata
 - [IEEE 1484.11.1-2022](https://standards.ieee.org/ieee/1484.11.1/10350/) - Data Model for Content
 Object Communication
-- [IEEE 1484.11.2-2020](https://standards.ieee.org/ieee/1484.11.2/6165/) - ECMAScript API for Content
+- [IEEE 1484.11.2-2020]([https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
 to Runtime Services Communication
 
 ### ISO/IEC Standards
