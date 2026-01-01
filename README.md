@@ -25,17 +25,17 @@ learning systems.
 JSON and RESTful data transport
 - [IEEE 1484.20.3-2022](https://standards.ieee.org/ieee/1484.20.3/10355/) - Data Model for Shareable
 Competency Definitions
-- [IEEE 1484.2-2024](https://standards.ieee.org/ieee/1484.2/11142/) - Learning and Employment
+- [IEEE 1484.2.1 (PESC LER alignment)](https://standards.ieee.org/ieee/1484.2/11142/) - Learning and Employment
 Record (LER) Ecosystems
 - [IEEE 2881-2025](https://standards.ieee.org/ieee/2881/11719/) - Learning Metadata Terms
-- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.11.1/10324/) - Learning Object Metadata
+- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.12.1/10324/) - Learning Object Metadata
 - [IEEE 1484.11.1-2022](https://standards.ieee.org/ieee/1484.11.1/10350/) - Data Model for Content
 Object Communication
 - [IEEE 1484.11.2-2020](https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
 to Runtime Services Communication
 
 ### ISO/IEC Standards
-- [ISO/IEC 39274-1-1](https://www.iso.org/standard/91131.html) - xAPI (joint IEEE/ISO standard, in
+- [ISO/IEC DIS 9274-1-1 – Experience API (xAPI), joint IEEE/ISO work (in development)](https://www.iso.org/standard/91131.html) - xAPI (joint IEEE/ISO standard, in
 development)
 
 ### Working Group Standards (In Development)
@@ -65,7 +65,7 @@ management
 ## Reference Implementations
 
 ### TLA Infrastructure
-- [TLA Toolbox](https://tlatoolbox.com) - Live development environment for Sharable Competency Definitions and Assertions
+- [TLA Toolbox](https://tlatoolbox.com) - Community hosted reference environment for Sharable Competency Definitions and Assertions
 
 ### xAPI Tools
 
@@ -75,9 +75,9 @@ management
 ## Tools &amp; Libraries
 
 ### Development Tools
-- [Rustici Engine](https://rusticisoftware.com/products/scorm-cloud/) - Commercial LRS and testing
+- [Rustici Engine](https://rusticisoftware.com/products/scorm-cloud/) - Commercial content engine and xAPI/cmi5 testing platform
 platform
-- [xAPI Lab](https://adlnet.gov/projects/xapi-lab/) - Visual statement builder and testing tool
+- [xAPI Lab](https://adlnet.gov/projects/experience-api/) - Visual statement builder and testing tool
 
 ### Data Analysis
 - [xAPI Dashboard](https://github.com/adlnet/xAPI-Dashboard) - Visualization tools for xAPI data
@@ -104,7 +104,7 @@ platform
 
 ### Events
 - [IEEE LTSC Meetings](https://sagroups.ieee.org/ltsc/)
-- [Learning Impact Conference](https://www.learningimpact.com/)
+- [Learning Impact Conference Hosted by 1EdTech Consortium](https://www.learningimpact.com/)
 
 ## Related Standards Bodies
 
