@@ -62,6 +62,10 @@ management
 - [Yet Analytics SQL-based Learning Record Store](https://github.com/yetanalytics/lrsql) - Open-source LRS
 - [Learning Locker](https://github.com/LearningLocker/learninglocker) - Open-source LRS
 - [ADL LRS](https://github.com/adlnet/ADL_LRS) - Reference LRS implementation
+- [ADL LRS Conformance test Suite](https://github.com/adlnet/lrs-conformance-test-suite) - A NodeJS project that tests the MUST requirements of the xAPI Spec and is based on the ADL testing requirements repository.
+- [node.js LRS](https://github.com/webtech-uos/nodejs-lrs) - node.js implementation of a learning record store (LRS) as described in the XAPI specifications
+- [Local LRS Server](https://github.com/gowithfloat/Float.TinCan.LocalLRSServer) - A local LRS server for xAPI client applications
+- [LRS supporting the xAPI and Caliper](https://github.com/Transcordia/jupiter) - An open source Learning Record Store (LRS) supporting the xAPI and Caliper specifications
 
 ## Reference Implementations
 
@@ -79,6 +83,7 @@ management
 - [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
 - [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library
+- [.NET library to speak to xAPI](https://github.com/Gimly/FluentxApi) - A fluent .Net Standard library to create xApi statements and communicate with a LRS
   
 ### Sharable Competency Definition (SCD)
 - [TLA Toolbox](https://tlatoolbox.com) - Community hosted reference environment workspace for Sharable Competency Definitions and Assertions
