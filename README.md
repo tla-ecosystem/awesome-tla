@@ -69,8 +69,17 @@ management
 ### xAPI Tools
 
 - [xAPI Wrapper](https://github.com/adlnet/xAPIWrapper) - JavaScript library for xAPI communication
-- [cmi5.js](https://github.com/AICC/cmi5-Client-Library) - cmi5 client library
-
+- [cmi5 Advanced Testing Application and Player Underpinning Learning Technologies (CATAPULT)](https://github.com/adlnet/CATAPULT)
+- [xAPI cmi5 profile using JavaScript.](https://github.com/xapijs/cmi5) - Communicate over the xAPI cmi5 profile using JavaScript
+- [cmi5.js Assignabel unit (AU) Runtime](https://github.com/RusticiSoftware/cmi5.js) - JavaScript implementation of cmi5 AU runtime
+- [TinCanJS](https://github.com/RusticiSoftware/TinCanJS) - JavaScript library for the Experience API
+- [cmi5 Assignable Unit (AU)/Learnign Record provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an example of how to send cmi5 statements from an AU
+- [xAPIadaper for Unity](https://github.com/e-ucm/xasu) - xAPI Analytics Submitter for Unity / A very simple xAPI tracker with cmi5 support
+- [cmi5 Launch for Moodle](https://github.com/adlnet/Moodle-mod_cmi5launch) -  A Moodle plugin which allows teachers to upload cmi5 packaged lessons within a Moodle Course Activity and then assign the activity to students
+- [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
+- [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
+- 
+  
 ### Sharable Competency Definition (SCD)
 - [TLA Toolbox](https://tlatoolbox.com) - Community hosted reference environment workspace for Sharable Competency Definitions and Assertions
 
