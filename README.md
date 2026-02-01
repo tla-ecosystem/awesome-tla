@@ -11,15 +11,15 @@ learning systems.
 
 ## Contents
 
-- [Standards &amp; Specifications](#standards--specifications)
+- [Standards and Specifications](#standards--specifications)
 - [Core Technologies](#core-technologies)
 - [Reference Implementations](#reference-implementations)
-- [Tools &amp; Libraries](#tools--libraries)
+- [Tools and Libraries](#tools--libraries)
 - [Developer Resources](#developer-resources)
 - [Community](#community)
 - [Related Standards Bodies](#related-standards-bodies)
 
-## Standards &amp; Specifications
+## Standards and Specifications
 
 ### IEEE LTSC Standards
 - [IEEE 9274.1.1-2023](https://standards.ieee.org/ieee/9274.1.1/10437/) - xAPI (Experience API) using
@@ -76,18 +76,18 @@ management
 - [xAPI cmi5 profile using JavaScript.](https://github.com/xapijs/cmi5) - Communicate over the xAPI cmi5 profile using JavaScript
 - [cmi5.js Assignabel unit (AU) Runtime](https://github.com/RusticiSoftware/cmi5.js) - JavaScript implementation of cmi5 AU runtime
 - [TinCanJS](https://github.com/RusticiSoftware/TinCanJS) - JavaScript library for creating and sending xAPI statements from web-based learning content.
-- [cmi5 Assignable Unit (AU)/Learnign Record provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an example of how to send cmi5 statements from an AU
+- [cmi5 Assignable Unit (AU)/Learnign Record provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an exle of how to send cmi5 statements from an AU
 - [xAPIadaper for Unity](https://github.com/e-ucm/xasu) - xAPI Analytics Submitter for Unity / A very simple xAPI tracker with cmi5 support
 - [cmi5 Launch for Moodle](https://github.com/adlnet/Moodle-mod_cmi5launch) -  A Moodle plugin which allows teachers to upload cmi5 packaged lessons within a Moodle Course Activity and then assign the activity to students
 - [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
-- [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library
+- [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Exle of xAPI Video Profile with the HTML5 / VideoJS Library
 - [.NET library to speak to xAPI](https://github.com/Gimly/FluentxApi) - A fluent .Net Standard library to create xApi statements and communicate with a LRS
   
 ### Sharable Competency Definition (SCD)
 - [TLA Toolbox](https://tlatoolbox.com) - Community platform for creating, managing, and sharing competency definitions and xAPI profiles.
 
-## Tools &amp; Libraries
+## Tools and Libraries
 
 ### Development Tools
 - [Rustici Engine](https://rusticisoftware.com/products/scorm-cloud/) - Commercial SCORM, xAPI, and cmi5 content hosting and testing platform with conformance validation.
@@ -107,7 +107,7 @@ platform
 ### Other Standards of Interest
 - [1EdTech Security Framework](https://www.imsglobal.org/spec/security/v1p0) - OAuth 2.0 security and authentication framework for learning technology applications and APIs.
 
-### Tutorials &amp; Guides
+### Tutorials and Guides
 - [xAPI Tutorials](https://xapi.com/tutorials/) - Step-by-step tutorials and guides for implementing xAPI in learning applications and content.
   
 ## Community
@@ -132,7 +132,7 @@ platform
 - [1EdTech Consortium](https://www.1edtech.org/) - Global learning technology consortium developing interoperability standards for education and workforce development.
 - [W3C](https://www.w3.org/) - World Wide Web Consortium developing web standards including JSON-LD and RDF used in learning metadata.
 
-### Industry &amp; Education Organizations
+### Industry and Education Organizations
 - [Advanced Distributed Learning Initiative (ADL)](https://adlnet.gov/) - U.S. DoD organization that originated xAPI and continues advancing learning technology research.
 - [i2DL](https://www.i2idl.org/) - Entity seeking coordinating learning technology standards conformance across sectors and regions.
 - [HR Open Standards Consortium](https://www.hropenstandards.org/) - Standards organization developing HR and workforce data specifications complementary to learning records.
