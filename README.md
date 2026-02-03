@@ -1,5 +1,9 @@
 # Awesome TLA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+  <img src="awesome-tla_logo.png" alt="Awesome TLA Logo" width="200" style="border-radius: 10px;">
+</div>
+
 Standards-based infrastructure for tracking learning activities, managing 
 competencies, and maintaining learner records across defense, workforce 
 development, and education systems.
@@ -98,8 +102,8 @@ to Runtime Services Communication.
 ## Developer Resources
 
 ### Documentation
-- [ADL xAPI Documentation](https://adlnet.gov/projects/xapi/)  - Official documentation, specifications, and implementation guides for the Experience API.
-- [IEEE LTSC Documentation](https://sagroups.ieee.org/ltsc/) - IEEE Learning Technology Standards Committee documentation for all TLA-related standards.
+- [xAPI v2.0.0 (P9274.1.1) Documentation](https://opensource.ieee.org/xapi/xapi-base-standard-documentation)  - Official documentation, specifications, and implementation guides for the Experience API.
+- [IEEE LTSC GitLab Resources](https://opensource.ieee.org/ltsc) - IEEE Learning Technology Standards Committee GitLab artifacts and documentation for TLA-related standards.
 - [cmi5 Specification](https://github.com/AICC/CMI-5_Spec_Current) - Profile for using xAPI with traditional learning management system launch and tracking workflows.
 
 ### Other Standards of Interest
@@ -114,12 +118,8 @@ to Runtime Services Communication.
 - [xAPI Community](https://groups.google.com/g/xapi-spec) - Google Group for discussing xAPI specification development and implementation questions.
 - [TLA Community Forum](https://discuss.tlaworks.com) - Discussion forum for TLA practitioners, implementers, and standards contributors.
 
-### Working Groups
-- [IEEE LTSC Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) - Active working groups developing and maintaining IEEE learning technology standards.
-- [ADL Initiative](https://adlnet.gov/) - U.S. Department of Defense organization advancing distributed learning technology and standards.
-
-### Events
-- [IEEE LTSC Meetings](https://sagroups.ieee.org/ltsc/) - Regular meetings of IEEE LTSC for standards development and community coordination.
+### Events and Working Groups
+- [IEEE LTSC Active Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) - Regular Working Groups and meetings of IEEE LTSC for standards development and community coordination.
 - [Learning Impact Conference Hosted by 1EdTech Consortium](https://www.learningimpact.com/) - Annual conference hosted by 1EdTech Consortium on learning technology innovation and interoperability.
 
 ## Related Standards Bodies
@@ -132,7 +132,7 @@ to Runtime Services Communication.
 
 ### Industry and Education Organizations
 - [Advanced Distributed Learning Initiative (ADL)](https://adlnet.gov/) - U.S. DoD organization that originated xAPI and continues advancing learning technology research.
-- [i2DL](https://www.i2idl.org/) - Entity seeking coordinating learning technology standards conformance across sectors and regions.
+- [i2iDL](https://www.i2idl.org/) - Entity seeking coordinating learning technology standards conformance across sectors and regions.
 - [HR Open Standards Consortium](https://www.hropenstandards.org/) - Standards organization developing HR and workforce data specifications complementary to learning records.
 - [Credential Engine](https://credentialengine.org/) - Registry of credentials, competencies, and learning opportunities using linked open data standards.
 - [PESC](https://www.pesc.org/) - Standards organization for education data exchange including learning and employment records.
@@ -143,7 +143,6 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 To add a resource:
 1. Fork this repository
-
 2. Add your resource to the appropriate section
 3. Ensure it follows the [Awesome List
 guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
