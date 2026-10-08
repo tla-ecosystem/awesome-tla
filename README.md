@@ -26,21 +26,21 @@ learning systems.
 ## Standards and Specifications
 
 ### IEEE LTSC Standards
-- [IEEE 9274.1.1-2023](https://standards.ieee.org/ieee/9274.1.1/10437/) - xAPI (Experience API) using
+- [IEEE 9274.1.1-2023](https://standards.ieee.org/ieee/9274.1.1/7321/) - xAPI (Experience API) using
 JSON and RESTful data transport.
-- [IEEE 1484.20.3-2022](https://standards.ieee.org/ieee/1484.20.3/10355/) - Data Model for Shareable
+- [IEEE 1484.20.3-2022](https://standards.ieee.org/ieee/1484.20.3/10749/) - Data Model for Shareable
 Competency Definitions.
-- [IEEE 1484.2.1 (PESC LER alignment)](https://standards.ieee.org/ieee/1484.2/11142/) - Learning and Employment
+- [IEEE 1484.2-2024 (PESC LER alignment)](https://standards.ieee.org/ieee/1484.2/11164/) - Recommended Practice for Learning and Employment
 Record (LER) Ecosystems.
 - [IEEE 2881-2025](https://standards.ieee.org/ieee/2881/11719/) - Learning Metadata Terms.
-- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.12.1/10324/) - Learning Object Metadata.
-- [IEEE 1484.11.1-2022](https://standards.ieee.org/ieee/1484.11.1/10350/) - Data Model for Content
+- [IEEE 1484.12.1-2020](https://standards.ieee.org/ieee/1484.12.1/7699/) - Learning Object Metadata.
+- [IEEE 1484.11.1-2022](https://standards.ieee.org/ieee/1484.11.1/10324/) - Data Model for Content
 Object Communication.
 - [IEEE 1484.11.2-2020](https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
 to Runtime Services Communication.
 
 ### ISO/IEC Standards
-- [ISO/IEC DIS 9274-1-1 – Experience API (xAPI), joint IEEE/ISO work (in development)](https://www.iso.org/standard/91131.html) - Joint IEEE/ISO standardization of the Experience API for international adoption and harmonization.
+- [ISO/IEC/IEEE 39274-1-1:2025 – Experience API (xAPI)](https://www.iso.org/standard/91131.html) - Joint IEEE/ISO standardization of the Experience API for international adoption and harmonization, published October 2025.
 
 ### Working Group Standards (In Development)
 - [P9274.2.1 - xAPI Profiles](https://sagroups.ieee.org/9274-2-1/) - JSON-LD specification for defining application profiles that extend xAPI for specific learning contexts.
@@ -77,14 +77,14 @@ to Runtime Services Communication.
 - [xAPI Wrapper](https://github.com/adlnet/xAPIWrapper) - JavaScript library simplifying xAPI statement creation and LRS communication for web applications.
 - [cmi5 Advanced Testing Application and Player Underpinning Learning Technologies (CATAPULT)](https://github.com/adlnet/CATAPULT) - Conformance testing suite for cmi5 Assignable Units and Learning Record Stores.
 - [xAPI cmi5 profile using JavaScript.](https://github.com/xapijs/cmi5) - Communicate over the xAPI cmi5 profile using JavaScript.
-- [cmi5.js Assignabel unit (AU) Runtime](https://github.com/RusticiSoftware/cmi5.js) - JavaScript implementation of cmi5 AU runtime.
+- [cmi5.js Assignable Unit (AU) Runtime](https://github.com/RusticiSoftware/cmi5.js) - JavaScript implementation of cmi5 AU runtime.
 - [TinCanJS](https://github.com/RusticiSoftware/TinCanJS) - JavaScript library for creating and sending xAPI statements from web-based learning content.
-- [cmi5 Assignable Unit (AU)/Learnign Record provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an exle of how to send cmi5 statements from an AU.
-- [xAPIadaper for Unity](https://github.com/e-ucm/xasu) - xAPI Analytics Submitter for Unity / A very simple xAPI tracker with cmi5 support.
+- [cmi5 Assignable Unit (AU)/Learning Record Provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an example of how to send cmi5 statements from an AU.
+- [xAPI adapter for Unity](https://github.com/e-ucm/xasu-unity) - xAPI Analytics Submitter for Unity / A very simple xAPI tracker with cmi5 support.
 - [cmi5 Launch for Moodle](https://github.com/adlnet/Moodle-mod_cmi5launch) -  A Moodle plugin which allows teachers to upload cmi5 packaged lessons within a Moodle Course Activity and then assign the activity to students.
 - [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
-- [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Exle of xAPI Video Profile with the HTML5 / VideoJS Library.
+- [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library.
 - [.NET library to speak to xAPI](https://github.com/Gimly/FluentxApi) - A fluent .Net Standard library to create xApi statements and communicate with a LRS.
   
 ### Sharable Competency Definition (SCD)
@@ -93,8 +93,8 @@ to Runtime Services Communication.
 ## Tools and Libraries
 
 ### Development Tools
-- [Rustici Engine](https://rusticisoftware.com/products/scorm-cloud/) - Commercial SCORM, xAPI, and cmi5 content hosting and testing platform with conformance validation platform.
-- [xAPI Lab](https://adlnet.gov/projects/experience-api/) - Visual tool for building, testing, and debugging xAPI statements with real-time LRS communication.
+- [SCORM Cloud (Rustici Software)](https://rusticisoftware.com/products/scorm-cloud/) - Commercial SCORM, xAPI, and cmi5 content hosting and testing platform with conformance validation platform.
+- [xAPI Lab](https://adlnet.github.io/xapi-lab/) - Visual tool for building, testing, and debugging xAPI statements with real-time LRS communication.
 
 ### Data Analysis
 - [xAPI Dashboard](https://github.com/adlnet/xAPI-Dashboard) - Customizable dashboard for visualizing and analyzing learning activity data from xAPI Learning Record Stores.
@@ -110,17 +110,17 @@ to Runtime Services Communication.
 - [1EdTech Security Framework](https://www.imsglobal.org/spec/security/v1p0) - OAuth 2.0 security and authentication framework for learning technology applications and APIs.
 
 ### Tutorials and Guides
-- [xAPI Tutorials](https://xapi.com/tutorials/) - Step-by-step tutorials and guides for implementing xAPI in learning applications and content.
+- [xAPI Developer Guide](https://xapi.com/developer-overview/) - Step-by-step guide for implementing xAPI in learning applications and content.
   
 ## Community
 
 ### Discussion Forums
-- [xAPI Community](https://groups.google.com/g/xapi-spec) - Google Group for discussing xAPI specification development and implementation questions.
+- [xAPI Community](https://groups.google.com/a/adlnet.gov/g/xapi-spec) - ADL's Google Group archive of xAPI specification development and implementation discussions.
 - [TLA Community Forum](https://discuss.tlaworks.com) - Discussion forum for TLA practitioners, implementers, and standards contributors.
 
 ### Events and Working Groups
 - [IEEE LTSC Active Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) - Regular Working Groups and meetings of IEEE LTSC for standards development and community coordination.
-- [Learning Impact Conference Hosted by 1EdTech Consortium](https://www.learningimpact.com/) - Annual conference hosted by 1EdTech Consortium on learning technology innovation and interoperability.
+- [Learning Impact Conference Hosted by 1EdTech Consortium](https://www.1edtech.org/events) - Annual conference hosted by 1EdTech Consortium on learning technology innovation and interoperability.
 
 ## Related Standards Bodies
 
@@ -131,7 +131,7 @@ to Runtime Services Communication.
 - [W3C](https://www.w3.org/) - World Wide Web Consortium developing web standards including JSON-LD and RDF used in learning metadata.
 
 ### Industry and Education Organizations
-- [Advanced Distributed Learning Initiative (ADL)](https://adlnet.gov/) - U.S. DoD organization that originated xAPI and continues advancing learning technology research.
+- [Advanced Distributed Learning Initiative (ADL)](https://github.com/adlnet) - U.S. DoD organization (now sunset) that originated xAPI and the TLA; its open-source tools and specifications remain available on GitHub.
 - [i2iDL](https://www.i2idl.org/) - Entity seeking coordinating learning technology standards conformance across sectors and regions.
 - [HR Open Standards Consortium](https://www.hropenstandards.org/) - Standards organization developing HR and workforce data specifications complementary to learning records.
 - [Credential Engine](https://credentialengine.org/) - Registry of credentials, competencies, and learning opportunities using linked open data standards.
