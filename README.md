@@ -66,12 +66,9 @@ to Runtime Services Communication.
 
 ### Learning Record Stores (LRS)
 - [SQL LRS](https://github.com/yetanalytics/lrsql) - Production-grade Learning Record Store with PostgreSQL backend, DoD Platform One certified.
-- [Learning Locker](https://github.com/LearningLocker/learninglocker) - Open-source Learning Record Store with analytics dashboard and reporting features.
 - [ADL LRS](https://github.com/adlnet/ADL_LRS) - Reference Learning Record Store implementation from the Advanced Distributed Learning Initiative.
 - [ADL LRS Conformance test Suite](https://github.com/adlnet/lrs-conformance-test-suite) - A Node.js project that tests the MUST requirements of the xAPI Spec and is based on the ADL testing requirements repository.
-- [Node.js LRS](https://github.com/webtech-uos/nodejs-lrs) - Node.js implementation of a learning record store (LRS) as described in the XAPI specifications.
 - [Local LRS Server](https://github.com/gowithfloat/Float.TinCan.LocalLRSServer) - A local LRS server for xAPI client applications.
-- [LRS supporting the xAPI and Caliper](https://github.com/Transcordia/jupiter) - An open source Learning Record Store (LRS) supporting the xAPI and Caliper specifications.
 - [Ralph](https://github.com/openfun/ralph) - Open-source Python toolbox that works as a Learning Record Store, an xAPI statement API server, and a library/CLI for learning analytics.
 
 ## Reference Implementations
@@ -79,18 +76,13 @@ to Runtime Services Communication.
 
 ### xAPI Tools
 
-- [xAPI Wrapper](https://github.com/adlnet/xAPIWrapper) - JavaScript library simplifying xAPI statement creation and LRS communication for web applications.
 - [cmi5 Advanced Testing Application and Player Underpinning Learning Technologies (CATAPULT)](https://github.com/adlnet/CATAPULT) - Conformance testing suite for cmi5 Assignable Units and Learning Record Stores.
 - [xAPI cmi5 profile using JavaScript.](https://github.com/xapijs/cmi5) - Communicate over the xAPI cmi5 profile using JavaScript.
-- [cmi5.js Assignable Unit (AU) Runtime](https://github.com/RusticiSoftware/cmi5.js) - JavaScript implementation of cmi5 AU runtime.
-- [TinCanJS](https://github.com/RusticiSoftware/TinCanJS) - JavaScript library for creating and sending xAPI statements from web-based learning content.
-- [cmi5 Assignable Unit (AU)/Learning Record Provider (LRP) Simulator](https://github.com/cawerkenthin/cmi5-AU-Simulator) - This application simulates the AU-side of the cmi5 specification. It is an example of how to send cmi5 statements from an AU.
 - [xAPI adapter for Unity](https://github.com/e-ucm/xasu-unity) - xAPI Analytics Submitter for Unity / A very simple xAPI tracker with cmi5 support.
 - [cmi5 Launch for Moodle](https://github.com/adlnet/Moodle-mod_cmi5launch) -  A Moodle plugin which allows teachers to upload cmi5 packaged lessons within a Moodle Course Activity and then assign the activity to students.
 - [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
 - [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library.
-- [.NET library to speak to xAPI](https://github.com/Gimly/FluentxApi) - A fluent .Net Standard library to create xApi statements and communicate with a LRS.
 - [xAPI LRS Auth Proxy](https://github.com/tla-ecosystem/xapi-lrs-auth-proxy) - Reference authentication proxy for cmi5/xAPI that issues session-scoped JWTs and enforces cmi5 actor, activity, and registration permissions in front of any LRS.
 - [xAPI.js](https://github.com/xapijs/xapi) - TypeScript/JavaScript library for communicating with a Learning Record Store over xAPI.
 - [Moodle Logstore xAPI](https://github.com/davidpesce/moodle-logstore_xapi) - Moodle plugin that emits xAPI statements to an LRS from Moodle logstore events.
@@ -107,10 +99,6 @@ to Runtime Services Communication.
 
 ### Development Tools
 - [SCORM Cloud (Rustici Software)](https://rusticisoftware.com/products/scorm-cloud/) - Commercial SCORM, xAPI, and cmi5 content hosting and testing platform with conformance validation platform.
-- [xAPI Lab](https://adlnet.github.io/xapi-lab/) - Visual tool for building, testing, and debugging xAPI statements with real-time LRS communication.
-
-### Data Analysis
-- [xAPI Dashboard](https://github.com/adlnet/xAPI-Dashboard) - Customizable dashboard for visualizing and analyzing learning activity data from xAPI Learning Record Stores.
 
 ## Developer Resources
 
