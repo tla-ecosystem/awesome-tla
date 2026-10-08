@@ -38,18 +38,21 @@ Record (LER) Ecosystems.
 Object Communication.
 - [IEEE 1484.11.2-2020](https://standards.ieee.org/ieee/1484.11.2/7698/) - ECMAScript API for Content
 to Runtime Services Communication.
+- [IEEE 1484.20.2-2022](https://standards.ieee.org/ieee/1484.20.2/10743/) - Recommended Practice for Defining Competencies.
+- [IEEE 2247.4-2025](https://standards.ieee.org/ieee/2247.4/10368/) - Recommended Practice for Ethically Aligned Design of Artificial Intelligence (AI) in Adaptive Instructional Systems.
 
 ### ISO/IEC Standards
 - [ISO/IEC/IEEE 39274-1-1:2025 – Experience API (xAPI)](https://www.iso.org/standard/91131.html) - Joint IEEE/ISO standardization of the Experience API for international adoption and harmonization, published October 2025.
 
 ### Working Group Standards (In Development)
 - [P9274.2.1 - xAPI Profiles](https://sagroups.ieee.org/9274-2-1/) - JSON-LD specification for defining application profiles that extend xAPI for specific learning contexts.
-- P9274.3.1 - Packaging, Launch, and Run-time of xAPI (cmi5) - Standard for launching xAPI content from learning management systems with session management.
-- P9274.4.2 - Cybersecurity in xAPI Implementation - Security requirements and best practices for protecting learner data in xAPI systems.
-- P2247.2 - Adaptive Instructional Systems Interoperability - Standards for adaptive learning systems that personalize instruction based on learner needs.
-- P2247.4 - Ethically Aligned AI in Adaptive Instructional Systems - Ethical guidelines for AI-powered adaptive learning technologies.
-- P2834 - Secure and Trusted Learning Systems - Security and privacy frameworks for learning technology infrastructure.
-- P2997 - Enterprise Learner Record - Comprehensive learner record standard integrating learning, employment, and credential data.
+- [P9274.3.1](https://sagroups.ieee.org/9274-3-1/) - Packaging, Launch, and Run-time of xAPI (cmi5) - Standard for launching xAPI content from learning management systems with session management.
+- [P9274.4.2](https://sagroups.ieee.org/p9274-4-2/) - Cybersecurity in xAPI Implementation - Security requirements and best practices for protecting learner data in xAPI systems.
+- [P2247.2](https://sagroups.ieee.org/p2247-2/) - Adaptive Instructional Systems Interoperability - Standards for adaptive learning systems that personalize instruction based on learner needs.
+- [P2834](https://sagroups.ieee.org/2834/) - Secure and Trusted Learning Systems - Security and privacy frameworks for learning technology infrastructure.
+- [P2834.1](https://sagroups.ieee.org/p2834-1/) - Digital Forensics on Trusted Learning Systems - Technical requirements for forensic-investigation-ready learning systems, including evidence collection, preservation, and audit trails.
+- [P2997](https://sagroups.ieee.org/p2997/) - Enterprise Learner Record - Comprehensive learner record standard integrating learning, employment, and credential data.
+- [P1484.20.3a](https://standards.ieee.org/ieee/1484.20.3a/12109/) - Shareable Competency Definitions Amendment: Open Source - Brings IEEE 1484.20.3 into IEEE SA Open and adds supporting documents such as application profiles and clearer rubric definitions.
 
 ## Core Technologies
 
