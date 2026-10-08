@@ -142,7 +142,7 @@ to Runtime Services Communication.
 
 ### Industry and Education Organizations
 - [Advanced Distributed Learning Initiative (ADL)](https://github.com/adlnet) - U.S. DoD organization (now sunset) that originated xAPI and the TLA; its open-source tools and specifications remain available on GitHub.
-- [i2iDL](https://www.i2idl.org/) - Entity seeking coordinating learning technology standards conformance across sectors and regions.
+- [I2IDL](https://www.i2idl.org/) - Institute for Infrastructure and Interoperable Data in Learning, a not-for-profit entity stood up to become a steward maintaining repositories created by the Advanced Distributed Learning (ADL) Initiative, whose open-source IP was paid for by US taxpayers.
 - [HR Open Standards Consortium](https://www.hropenstandards.org/) - Standards organization developing HR and workforce data specifications complementary to learning records.
 - [Credential Engine](https://credentialengine.org/) - Registry of credentials, competencies, and learning opportunities using linked open data standards.
 - [PESC](https://www.pesc.org/) - Standards organization for education data exchange including learning and employment records.
