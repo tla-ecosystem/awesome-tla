@@ -62,6 +62,7 @@ to Runtime Services Communication.
 
 ### Competency Frameworks
 - [Competency and Skills System (CaSS)](https://github.com/cassproject) - Open-source platform for managing competency frameworks, assessments, and learning pathways aligned with IEEE 1484.20.3 management.
+- [IEEE 1484.20.3 SCD Working Repository](https://opensource.ieee.org/ltsc/scd-staging) - IEEE SA Open repository for the Shareable Competency Definitions working group's in-progress (non-normative) materials.
 
 ### Learning Record Stores (LRS)
 - [SQL LRS](https://github.com/yetanalytics/lrsql) - Production-grade Learning Record Store with PostgreSQL backend, DoD Platform One certified.
@@ -71,6 +72,7 @@ to Runtime Services Communication.
 - [Node.js LRS](https://github.com/webtech-uos/nodejs-lrs) - Node.js implementation of a learning record store (LRS) as described in the XAPI specifications.
 - [Local LRS Server](https://github.com/gowithfloat/Float.TinCan.LocalLRSServer) - A local LRS server for xAPI client applications.
 - [LRS supporting the xAPI and Caliper](https://github.com/Transcordia/jupiter) - An open source Learning Record Store (LRS) supporting the xAPI and Caliper specifications.
+- [Ralph](https://github.com/openfun/ralph) - Open-source Python toolbox that works as a Learning Record Store, an xAPI statement API server, and a library/CLI for learning analytics.
 
 ## Reference Implementations
 
@@ -89,9 +91,17 @@ to Runtime Services Communication.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
 - [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library.
 - [.NET library to speak to xAPI](https://github.com/Gimly/FluentxApi) - A fluent .Net Standard library to create xApi statements and communicate with a LRS.
+- [xAPI LRS Auth Proxy](https://github.com/tla-ecosystem/xapi-lrs-auth-proxy) - Reference authentication proxy for cmi5/xAPI that issues session-scoped JWTs and enforces cmi5 actor, activity, and registration permissions in front of any LRS.
+- [xAPI.js](https://github.com/xapijs/xapi) - TypeScript/JavaScript library for communicating with a Learning Record Store over xAPI.
+- [Moodle Logstore xAPI](https://github.com/davidpesce/moodle-logstore_xapi) - Moodle plugin that emits xAPI statements to an LRS from Moodle logstore events.
+- [LRSPipe](https://github.com/yetanalytics/xapipe) - Middleware that forwards xAPI statements between LRSs, with data flow governed by xAPI Profiles.
+- [DATASIM](https://github.com/yetanalytics/datasim) - Generates simulated xAPI data at scale from xAPI Profiles for testing TLA applications.
   
 ### Sharable Competency Definition (SCD)
 - [TLA Toolbox](https://tlatoolbox.com) - Community platform for creating, managing, and sharing competency definitions and xAPI profiles.
+
+### Enterprise Learner Record (ELRR)
+- [ELRR Documentation](https://github.com/adlnet/elrr-documentation) - ADL's Enterprise Learner Record Repository, implementing the IEEE P2997 data model and Learner API and updating learner records from xAPI statements.
 
 ## Tools and Libraries
 
@@ -108,9 +118,17 @@ to Runtime Services Communication.
 - [xAPI v2.0.0 (P9274.1.1) Documentation](https://opensource.ieee.org/xapi/xapi-base-standard-documentation)  - Official documentation, specifications, and implementation guides for the Experience API.
 - [IEEE LTSC GitLab Resources](https://opensource.ieee.org/ltsc) - IEEE Learning Technology Standards Committee GitLab artifacts and documentation for TLA-related standards.
 - [cmi5 Specification](https://github.com/AICC/CMI-5_Spec_Current) - Profile for using xAPI with traditional learning management system launch and tracking workflows.
+- [xAPI Base Standard Examples](https://opensource.ieee.org/xapi/xapi-base-standard-examples) - IEEE SA Open examples accompanying the IEEE 9274.1.1 xAPI base standard, including PUT and POST request examples.
+- [cmi5 Working Repository (P9274.3.1)](https://opensource.ieee.org/ltsc/cmi5-staging) - IEEE SA Open repository for the working group standardizing cmi5 as P9274.3.1 (non-normative work in progress).
+- [xAPI Profiles Working Repository (P9274.2.1)](https://opensource.ieee.org/ltsc/xapi-profiles-staging) - IEEE SA Open repository for the P9274.2.1 xAPI Profiles working group (non-normative work in progress).
+- [DoDI 1322.26 Reference](https://adlnet.github.io/dodireference/) - ADL's implementation reference for DoD Instruction 1322.26 (Distributed Learning), defining the learning data standards required across DoD systems.
 
 ### Other Standards of Interest
 - [1EdTech Security Framework](https://www.imsglobal.org/spec/security/v1p0) - OAuth 2.0 security and authentication framework for learning technology applications and APIs.
+- [1EdTech Open Badges 3.0](https://www.imsglobal.org/spec/ob/v3p0) - Verifiable digital badge format aligned with the W3C Verifiable Credentials data model.
+- [1EdTech Comprehensive Learner Record (CLR) 2.0](https://www.imsglobal.org/spec/clr/v2p0) - Verifiable, machine-readable record of a learner's achievements from multiple providers, built on W3C Verifiable Credentials alongside Open Badges 3.0.
+- [1EdTech CASE 1.1](https://www.imsglobal.org/spec/case/v1p1) - Competencies and Academic Standards Exchange for publishing and exchanging machine-readable competency frameworks.
+- [1EdTech LTI 1.3](https://www.imsglobal.org/spec/lti/v1p3) - Learning Tools Interoperability core specification for securely launching external tools from learning platforms.
 
 ### Tutorials and Guides
 - [xAPI Developer Guide](https://xapi.com/developer-overview/) - Step-by-step guide for implementing xAPI in learning applications and content.
@@ -123,6 +141,7 @@ to Runtime Services Communication.
 
 ### Events and Working Groups
 - [IEEE LTSC Active Working Groups](https://sagroups.ieee.org/ltsc/workgroups/) - Regular Working Groups and meetings of IEEE LTSC for standards development and community coordination.
+- [IEEE ICICLE](https://sagroups.ieee.org/icicle/) - IEEE LTSC consortium advancing learning engineering as a profession and discipline, with monthly community calls and special/market interest groups.
 - [Learning Impact Conference Hosted by 1EdTech Consortium](https://www.1edtech.org/events) - Annual conference hosted by 1EdTech Consortium on learning technology innovation and interoperability.
 
 ## Related Standards Bodies
