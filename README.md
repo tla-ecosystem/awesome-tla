@@ -65,6 +65,7 @@ to Runtime Services Communication.
 ### Competency Frameworks
 - [Competency and Skills System (CaSS)](https://github.com/cassproject) - Open-source platform for managing competency frameworks, assessments, and learning pathways aligned with IEEE 1484.20.3 management.
 - [IEEE 1484.20.3 SCD Working Repository](https://opensource.ieee.org/ltsc/scd-staging) - IEEE SA Open repository for the Shareable Competency Definitions working group's in-progress (non-normative) materials.
+- [OpenCASE](https://github.com/1EdTech/OpenCASE) - 1EdTech's open-source CASE server and visual editor for creating, managing, and publishing machine-readable competency frameworks (CASE 1.0 and 1.1).
 
 ### Learning Record Stores (LRS)
 - [SQL LRS](https://github.com/yetanalytics/lrsql) - Production-grade Learning Record Store with PostgreSQL backend, DoD Platform One certified.
