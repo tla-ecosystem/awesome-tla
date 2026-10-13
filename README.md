@@ -71,7 +71,6 @@ to Runtime Services Communication.
 - [SQL LRS](https://github.com/yetanalytics/lrsql) - Production-grade Learning Record Store with PostgreSQL backend, DoD Platform One certified.
 - [ADL LRS](https://github.com/i2idl/ADL_LRS) - Reference Learning Record Store implementation from the Advanced Distributed Learning Initiative.
 - [ADL LRS Conformance test Suite](https://github.com/i2idl/lrs-conformance-test-suite) - A Node.js project that tests the MUST requirements of the xAPI Spec and is based on the ADL testing requirements repository.
-- [Local LRS Server](https://github.com/gowithfloat/Float.TinCan.LocalLRSServer) - A local LRS server for xAPI client applications.
 - [Ralph](https://github.com/openfun/ralph) - Open-source Python toolbox that works as a Learning Record Store, an xAPI statement API server, and a library/CLI for learning analytics.
 
 ## Reference Implementations
@@ -86,7 +85,6 @@ to Runtime Services Communication.
 - [cmi5 Launch for Moodle](https://github.com/adlnet/Moodle-mod_cmi5launch) -  A Moodle plugin which allows teachers to upload cmi5 packaged lessons within a Moodle Course Activity and then assign the activity to students.
 - [RapidCMI5 Course Creation Tools](https://github.com/ByLightSDC/rapidcmi5) - RapidCMI5 is a CMI5 course creation toolset.
 - [Learning Records Converter (Prometheus-X)](https://github.com/Prometheus-X-association/learning-records-converter) - Learning Records Converter is a tool enabling the interoperability of Learning Records in various formats (xAPI, SCORM, IMS Caliper, cmi5, proprietary).
-- [xAPI Video Profile Reference Project](https://github.com/jhaag75/xapi-videojs) - Example of xAPI Video Profile with the HTML5 / VideoJS Library.
 - [xAPI LRS Auth Proxy](https://github.com/tla-ecosystem/xapi-lrs-auth-proxy) - Reference authentication proxy for cmi5/xAPI that issues session-scoped JWTs and enforces cmi5 actor, activity, and registration permissions in front of any LRS.
 - [xAPI.js](https://github.com/xapijs/xapi) - TypeScript/JavaScript library for communicating with a Learning Record Store over xAPI.
 - [Moodle Logstore xAPI](https://github.com/davidpesce/moodle-logstore_xapi) - Moodle plugin that emits xAPI statements to an LRS from Moodle logstore events.
